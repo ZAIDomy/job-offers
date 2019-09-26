@@ -1,3 +1,3 @@
 # job-offers
 
-dinamic crud for publish job cards and info
+dinamic crud for publishing job cards and info
